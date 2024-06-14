@@ -8,3 +8,4 @@ Why the project is useful: Suggested Gaidai risk assessment methodology may be u
 How users can get started with the project: Gaidai risk assessment methodology being generic and multivariate, hence supplied MATLAB source code can be utilized, only changing input dataset is required.
 Where users can get help with your project: we provide extensive reference list, containing successful application examples of the multivariate Gaidai risk assessment methodology.
 Who maintains and contributes to the project: Prof. Oleg Gaidai, Shanghai Ocean University, China.
+![Readme](https://github.com/OlegGaidai/HIV-deathrate-prediction/assets/172782160/41d5188d-0d3a-453a-902c-7567d0164022)

@@ -9,3 +9,5 @@ How users can get started with the project: Gaidai risk assessment methodology b
 Where users can get help with your project: we provide extensive reference list, containing successful application examples of the multivariate Gaidai risk assessment methodology.
 Who maintains and contributes to the project: Prof. Oleg Gaidai, Shanghai Ocean University, China.
 ![Readme](https://github.com/OlegGaidai/HIV-deathrate-prediction/assets/172782160/41d5188d-0d3a-453a-902c-7567d0164022)
+
+How-to-use: having input ASCI one columt text file (in our case World_R.txt), just run main extrapolator MAIN.m (MATLAB format) to obtain multivariate system's risk (probability of exceeding given threshold on the decimal log scale). 

@@ -1,5 +1,5 @@
 # HIV-deathrate-prediction
-HIV deathrate prediction by Gaidai reliability method
+HIV deathrate prediction by state-of the-art multivariate Gaidai reliability method
 
 README
 
